@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bedtime Calculator</string>
+    <string name="title">Bedtime Calculator</string>
+    <string name="wakeup_when">What time do you want to wake up?</string>
+    <string name="bedtime_button">Calculate bedtime</string>
+    <string name="bed_now">If you want to go to bed now…</string>
+    <string name="wakeup_button">Calculate wake-up time</string>
+    <string name="fall_asleep">The average human takes 15 minutes to fall asleep.</string>
+    <string name="bedtime_message">To wake up refreshed, you should go to sleep at one of the
+        following times:</string>
+    <string name="wakeup_message">If you go to bed now, you should try to wake up at one of the
+        following times:</string>
+    <string name="wakeup_cycles">If you wake up at one of these times, you’ll rise in between
+        90-minute sleep cycles. </string>
+    <string name="bedtime_cycles">If you go to sleep at one of these times, you’ll rise in between
+        90-minute sleep cycles.</string>
+    <string name="good_sleep">A good night’s sleep consists of 5–6 complete sleep cycles.</string>
+    <string name="empty">Empty</string>
+    <string name="alarm">Set alarm</string>
+</resources>
